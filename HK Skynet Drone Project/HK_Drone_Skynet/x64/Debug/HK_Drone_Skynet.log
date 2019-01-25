@@ -1,0 +1,6 @@
+﻿  Main.cpp
+d:\uat\semester 5 (2019)\c++\hk skynet drone project\hk_drone_skynet\main.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\uat\semester 5 (2019)\c++\hk skynet drone project\hk_drone_skynet\main.cpp(53): error C2143: syntax error: missing ';' before '}'
+d:\uat\semester 5 (2019)\c++\hk skynet drone project\hk_drone_skynet\main.cpp(60): error C2143: syntax error: missing ';' before '}'
+d:\uat\semester 5 (2019)\c++\hk skynet drone project\hk_drone_skynet\main.cpp(70): error C2146: syntax error: missing ';' before identifier 'targetFound'
+d:\uat\semester 5 (2019)\c++\hk skynet drone project\hk_drone_skynet\main.cpp(76): error C2146: syntax error: missing ';' before identifier 'targetFound'
